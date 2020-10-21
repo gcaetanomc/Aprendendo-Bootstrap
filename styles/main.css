@@ -1,0 +1,47 @@
+body{
+    background-color: lightcyan;
+}
+
+.container.signin-container{
+    margin-top: 5%;
+}
+
+img.signin-img{
+    width: 128px;
+    display: block;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.signin-card{
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+form.signin-form{
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 48px;
+}
+
+input.signin-input{
+    text-align: center;
+}
+
+.signin-checkboxlabel{
+    margin-bottom: 32px;
+}
+
+.BOTAOMANEIRO{
+    color: white;
+    background-color: teal;
+}
+
+.BOTAOMANEIRO:hover{
+    color: white;
+    background-color: #099;
+}
